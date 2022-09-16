@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="web_client_id">INSIRA O SEU "ID DO CLIENTE DA WEB" AQUI</string>
+</resources>

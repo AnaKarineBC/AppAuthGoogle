@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213710933176",
+    "project_id": "athenticatio",
+    "storage_bucket": "athenticatio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213710933176:android:3dc28e36932b67ce7eb84d",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213710933176-uiccqfr8d290cla1rfnt4ihv617dpkb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "50b69511a06460689bdecdf11d672ac636ce4857"
+          }
+        },
+        {
+          "client_id": "213710933176-k5vdocng33rq2bdh2um9g91jup5aqdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbfUU_iZ4U1LJbRzfsUqYKmSE2X3GNjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213710933176-k5vdocng33rq2bdh2um9g91jup5aqdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
